@@ -1,0 +1,15 @@
+{
+  "name": "express-request-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express" , "joi" , "mongodb-querys"],
+  "author": "Mahender Rajput",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
