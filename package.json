@@ -8,8 +8,5 @@
   },
   "keywords": ["express" , "joi" , "mongodb-querys"],
   "author": "Mahender Rajput",
-  "license": "ISC",
-  "dependencies": {
-
-  }
+  "license": "ISC"
 }
