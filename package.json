@@ -1,5 +1,5 @@
 {
-  "name": "express-request-validator",
+  "name": "express-request-validator-middlewares",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

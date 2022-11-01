@@ -1,19 +1,19 @@
 
-# express-request-validator
+# express-request-validator-middlewares
 
 An express middleware for validating request data using joi
 
  - # Installation
  ```js
-npm install express-request-validator
-yarn add express-request-validator
+npm install express-request-validator-middlewares
+yarn add express-request-validator-middlewares
  ```
 
   - # Queck start
   ```js
 const express      = require('express');
 const Joi          = require('joi');
-const reqValidator = require('express-request-validator');
+const reqValidator = require('express-request-validator-middlewares');
 const app = express () ;
 const port = process.env.PORT || 4000 ;
 
